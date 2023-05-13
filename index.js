@@ -216,7 +216,8 @@ const continueLink = (l, nex) => {
             && !hasLink(nex)
         ) ||
         nex.indexOf("formResponse") != -1 ||
-        nex.indexOf("viewform") != -1
+        nex.indexOf("viewform") != -1 ||
+        nex.indexOf(".edu") != -1
     )
 }
 
