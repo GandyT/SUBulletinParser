@@ -162,9 +162,9 @@
         ]
     },
     {
-        "title": "Deadlines Approaching:",
+        "title": "The CUNY College Now Program at campuses throughout the city offers free college-level science, math, & humanities classes to current juniors & seniors (sophomores may be eligible for some programs depending on requirements). The application deadlines and course times vary for each individual campus - students should explore their options and apply ASAP. See the links below for more detailed information about programs and courses.",
         "category": "ACADEMIC PROGRAMS",
-        "description": "College Now Summer Programs & CoursesThe CUNY College Now Program at campuses throughout the city offers free college-level science, math, & humanities classes to current juniors & seniors (sophomores may be eligible for some programs depending on requirements). The application deadlines and course times vary for each individual campus - students should explore their options and apply ASAP. See the links below for more detailed information about programs and courses.1 – College of Staten IslandPre-Calculus, Psychology, Sociology",
+        "description": "1 – College of Staten IslandPre-Calculus, Psychology, Sociology",
         "eligible": "Sophomores, juniors, and seniors",
         "dates": "July 5 - July 27 (Mondays - Thursdays)",
         "location": "Virtual (Psychology & Sociology) or in-person (at 2800 Victory Blvd, Staten Island)",
@@ -180,7 +180,7 @@
         "eligible": "Sophomores, juniors, and seniors",
         "dates": "July 3 - August 3 (Mondays - Thursdays)",
         "location": "Virtual or in-person at 222-05, 56th Avenue Bayside, depending on the course",
-        "description": "undefinedHuman Biology, Business Organization and Management, Introduction to the American Criminal Justice System, English Composition, Theories of the Good Life, American Government, Psychology of Personal Adjustment, Robotics",
+        "description": "Human Biology, Business Organization and Management, Introduction to the American Criminal Justice System, English Composition, Theories of the Good Life, American Government, Psychology of Personal Adjustment, Robotics",
         "application deadline": "Rolling Basis",
         "links": [
             "https://www.qcc.cuny.edu/collegeNow/summer.html"
@@ -192,7 +192,7 @@
         "eligible": "Current juniors and sophomores",
         "dates": "July 10 – August 4 (research courses) OR July 12 – August 17 (courses)",
         "location": "2900 Bedford Avenue, Brooklyn",
-        "description": "undefinedSociology, Pre-Calculus, Aquatic Ecology Research, Gardening and Environmental Studies Research (participants receive a $1,000 stipend through the research courses)",
+        "description": "Sociology, Pre-Calculus, Aquatic Ecology Research, Gardening and Environmental Studies Research (participants receive a $1,000 stipend through the research courses)",
         "application deadline": "May 12",
         "links": [
             "https://drive.google.com/file/d/1lCTPSYHRveQWg9nsp4-W--mQCborRkK2/view?usp=sharing",
@@ -205,7 +205,7 @@
         "eligible": "Sophomores, juniors, & seniors (academic requirements are linked below)",
         "dates": "July 5 - August 10 (Monday - Thursday)",
         "location": "Virtual",
-        "description": "undefinedPublic Speaking, Human Services and Social Work, Sociology, General Psychology, Career Planning",
+        "description": "Public Speaking, Human Services and Social Work, Sociology, General Psychology, Career Planning",
         "application deadline": "May 20",
         "links": [
             "https://bmccprodstroac.blob.core.windows.net/uploads/2023/03/Summer-2023-General-Application.pdf",
@@ -226,9 +226,8 @@
         ]
     },
     {
-        "title": "Link to List of Summer College Now Courses:",
+        "title": "https://docs.google.com/document/d/1AobFJJ5ioMSilg1pZ7kD5-1GdpIamwgQ9HZRklHrCrM/edit?usp=sharing",
         "category": "ACADEMIC PROGRAMS",
-        "description": "https://docs.google.com/document/d/1AobFJJ5ioMSilg1pZ7kD5-1GdpIamwgQ9HZRklHrCrM/edit?usp=sharing",
         "links": [
             "https://docs.google.com/document/d/1-Uybso606Ljs8LtCAnMoxZHhZnyf-TtXIJS3w9orKc8/edit?usp=sharing"
         ]
@@ -241,7 +240,7 @@
         "dates": "Various dates",
         "location": "Virtual",
         "cost": "$1195 (Need-based financial aid scholarships available)",
-        "application deadline": ": Session 2: May 14, Session 3 - June 4",
+        "application deadline": "Session 2: May 14, Session 3 - June 4",
         "links": [
             "https://precollege.rice.edu/"
         ]
@@ -376,7 +375,7 @@
         "description": "“At Genspace, various classes are offered, including DNA Barcoding, Sculpting with Mycelium, Visualizing Brain Networks, and more. No science background is necessary to take these classes.”",
         "eligible": "All students: Youth ages 13-16 may attend classes with parent supervision; parents wishing to participate with their child should purchase an adult ticket for themselves and a student ticket for their child.  Youth ages 16+ may attend classes without parent supervision.",
         "dates": "Various (ongoing throughout the year)",
-        "location": ": Hybrid: Virtual, and 132 32 Street, Brooklyn + other locations",
+        "location": "Hybrid: Virtual, and 132 32 Street, Brooklyn + other locations",
         "cost": "Various",
         "application deadline": "Rolling Basis",
         "links": [
@@ -440,7 +439,7 @@
         "eligible": "All students",
         "dates": "Various (Upcoming sessions: 5/17, 5/24, 5/31, …)",
         "application deadline": "ASAP",
-        "location": ": Various",
+        "location": "Various",
         "cost": "$24 (yearly membership fee)",
         "links": [
             "https://nyexploring.org/",
@@ -482,7 +481,7 @@
         "description": "“The program provides real insight into how CPAs influence the business world. The program is an important component of the New York State Society of CPAs' (NYSSCPA) efforts to recruit minorities into the accounting profession. The Career Opportunities in the Accounting Profession (COAP) program is open to all, regardless of race, color, national origin, or sex.”",
         "eligible": "All s",
         "dates": "June 26 – 27",
-        "location": ": Various college campuses",
+        "location": "Various college campuses",
         "cost": "Free",
         "application deadline": "June 23",
         "links": [
@@ -535,12 +534,11 @@
         "description": "“Our Summer Youth Tillers program aims to encourage intergenerational learning spaces through youth providing hands on support to community gardeners during the busiest time of the growing season. You will learn about the history behind community gardening, the people power behind green spaces and the value of such growing food in marginalized communities. This is a NYC based internship. Participants will be compensated at the rate of $15 per hour for 15 hours weekly.”",
         "eligible": "Students between the ages of 14 and 17",
         "dates": "July 10 – August 22",
-        "location": ": Various",
+        "location": "Various",
         "cost": "Free",
         "application deadline": "May 28",
         "links": [
-            "https://www.greenguerillas.org/2022-summer-youth-tiller",
-            "https://docs.google.com/forms/d/e/1FAIpQLSeZgBJL9bt62Nb0dyD1ClkwS6Vvi-IdIwiEWGxZyRcXiPLc5Q/viewform"
+            "https://www.greenguerillas.org/2022-summer-youth-tillerhttps://docs.google.com/forms/d/e/1FAIpQLSeZgBJL9bt62Nb0dyD1ClkwS6Vvi-IdIwiEWGxZyRcXiPLc5Q/viewform"
         ]
     },
     {
@@ -752,9 +750,9 @@
         ]
     },
     {
-        "title": "`",
+        "title": "Junior Economic Club of New York City",
         "category": "BUSINESS & JOBS",
-        "description": "Junior Economic Club of New York CityThe Junior Economic Club of New York City is a student-run organization that exposes high school students to the real business world through networking events, workshops, and community outreach initiatives that connect them with the people they need to make a difference.",
+        "description": "The Junior Economic Club of New York City is a student-run organization that exposes high school students to the real business world through networking events, workshops, and community outreach initiatives that connect them with the people they need to make a difference.",
         "eligible": "All students",
         "date": "Ongoing",
         "cost": "Free",
@@ -848,7 +846,7 @@
         "description": "Volunteer at Community Cleanups to pick up litter and beautify the city! Gloves, bags, and tools are provided. When attending, be sure to wear comfortable and insulated layers of clothing that can get dirty & closed-toe shoes. Bring your own water bottle and necessities as there are no storage areas.",
         "eligible": "All students",
         "date": "May 21 (11 AM – 1 PM)",
-        "location": ":1-The West Village at Abingdon Square: 8th Avenue & Hudson St in Manhattan2-Chelsea: NW corner of 23rd St & 8th Avenue3-Hell’s Kitchen: NE corner of 47th St & 9th Avenue",
+        "location": "1-The West Village at Abingdon Square: 8th Avenue & Hudson St in Manhattan2-Chelsea: NW corner of 23rd St & 8th Avenue3-Hell’s Kitchen: NE corner of 47th St & 9th Avenue",
         "application deadline": "Rolling Basis",
         "links": [
             "https://www.sanitationfoundation.org/d3-cleanups",
@@ -875,7 +873,7 @@
         "description": "“Apex for Youth is seeking volunteers to help us work with our programs! Both in-person and virtual opportunities are available. The minimum commitment ranges from a full summer or a full school year (Saturdays). Students can work in the Athletics, Elementary Explorers, Middle School Mentoring, or Read with Apex programs.”",
         "eligible": "All students",
         "dates": "Various (minimum commitment of either one summer or a school-year)",
-        "location": ": Various",
+        "location": "Various",
         "application deadline": "May 31",
         "links": [
             "https://apexforyouth.org/volunteer/",
@@ -938,7 +936,7 @@
         "description": "“Leadership Interns work closely with Camp Invention and Invention Project participants to help them explore STEM concepts and become creative thinkers who can invent a better tomorrow.” Interns receive online leadership training from a professional coaching and training organization, build their communication skills when working with campers or directors, guide K-6th grade students through hands-on STEM challenges in the Camp Invention and Invention Project programs. They may also earn up to 40 volunteer hours.",
         "eligible": "All students",
         "dates": "Summer",
-        "location": ": Various",
+        "location": "Various",
         "cost": "Free",
         "application deadline": "Rolling Basis",
         "links": [
@@ -963,7 +961,7 @@
         "description": "“The Teen Service Corps is a 6-week service learning program with cohorts in Manhattan, Brooklyn, Queens and Long Island. Throughout the program teens (rising 9th through 12th graders) will learn about systemic injustice through a Jewish lens, hone leadership skills and volunteer in various neighborhoods to promote food and housing justice, and have fun!”",
         "eligible": "Current freshmen, sophomores, and juniors",
         "dates": "June 29 – July 20 OR July 25 – August 10",
-        "location": ": TBD",
+        "location": "TBD",
         "cost": "$360 - $720 (sliding scale)",
         "application deadline": "Rolling Basis",
         "links": [
@@ -1001,7 +999,7 @@
         "description": "“Volunteers work alongside staff to embody our universally held values of caring, honesty, respect, and responsibility. They strengthen our community by being determined, nurturing, genuine, hopeful, and welcoming. Are you looking for a rewarding way to spend your free time? The Riverdale Y has many opportunities for you to make an impact. We would love to have you come spend time with us and get to know our organization.”",
         "eligible": "All students who are at 14 years old",
         "dates": "Various",
-        "location": ": Various",
+        "location": "Various",
         "application deadline": "Rolling Basis",
         "links": [
             "https://www.riverdaley.org/programs/volunteer/#overview"
@@ -1026,7 +1024,7 @@
         "description": "Branches of the Brooklyn library system welcome student volunteers to provide tech and support assistance throughout the summer, and for a minimum of three hours per week for at least six months during the school year. Participants will receive eight days of training, and small stipends as well.",
         "eligible": "All students",
         "dates": "Summer and School Year",
-        "location": ": Various",
+        "location": "Various",
         "application deadline": "Rolling Basis",
         "links": [
             "https://www.bklynlibrary.org/support/volunteer/teen-techies",
@@ -1054,8 +1052,7 @@
         "location": "Various",
         "application deadline": "Rolling Basis",
         "links": [
-            "https://www.bike.nyc/volunteer/volunteer-opportunities/bike-education/",
-            "https://docs.google.com/forms/d/e/1FAIpQLScwAcAAqQMklZM_rv6esxr4vyukaQWH2UjqGhmokKePT1UbaQ/viewform"
+            "https://www.bike.nyc/volunteer/volunteer-opportunities/bike-education/https://docs.google.com/forms/d/e/1FAIpQLScwAcAAqQMklZM_rv6esxr4vyukaQWH2UjqGhmokKePT1UbaQ/viewform"
         ]
     },
     {
@@ -1064,7 +1061,7 @@
         "description": "“Sunnyside Community Services is dedicated to offering a variety of opportunities for you to use your time and talents to give back to the community. Volunteer opportunities include youth services, senior services, friendly visiting, pet pals, administrative support, and corporate engagement.”",
         "eligible": "All vaccinated students who are at least 15 years old",
         "dates": "Various",
-        "location": ": 43-31 39th Street, Sunnyside Queens & other sites",
+        "location": "43-31 39th Street, Sunnyside Queens & other sites",
         "application deadline": "Rolling Basis",
         "links": [
             "https://www.scsny.org/programs/volunteer/volunteer"
@@ -1076,7 +1073,7 @@
         "description": "“Help the Elderly Dorot” is a senior-services organization that runs 4-week summer internship programs for teens to assist elderly New Yorkers in three separate programs in Manhattan & Brooklyn. Over the course of the session, teen interns develop leadership skills and build intergenerational connections through a variety of activities.",
         "eligible": "Current 9th, 10th, and 11th grade students",
         "dates": "June 26 – July 20 OR July 25 – August 17 OR July 24 – August 17 (Mondays – Thursdays from 10 am – 4:30 pm)",
-        "location": ": Hybrid (DOROT 171 W 85th St, Manhattan OR The Shorefront Y, 3300 Coney Island Ave, Brooklyn & Virtual)",
+        "location": "Hybrid (DOROT 171 W 85th St, Manhattan OR The Shorefront Y, 3300 Coney Island Ave, Brooklyn & Virtual)",
         "application deadline": "Rolling Basis",
         "links": [
             "https://dorotusa.jotform.com/222964726230961",
@@ -1105,8 +1102,7 @@
         "location": "Local community",
         "application deadline": "Rolling Basis",
         "links": [
-            "https://firststrokes.org/launch-a-chapter",
-            "https://docs.google.com/forms/d/e/1FAIpQLSfFJdwnBIfc9zH170Fd2OgMWtIMxFmWp69Y%20DIMT6vTQKyWtSA/viewform"
+            "https://firststrokes.org/launch-a-chapterhttps://docs.google.com/forms/d/e/1FAIpQLSfFJdwnBIfc9zH170Fd2OgMWtIMxFmWp69Y%20DIMT6vTQKyWtSA/viewform"
         ]
     },
     {
@@ -1115,7 +1111,7 @@
         "description": "“KAFSC welcomes volunteers year-round for any given task whether it is a one-time commitment or a long-term one. Current volunteer positions include: 24-hour Hotline Dispatcher (Korean and English fluency required), and Teacher's Aide for Hodori After School Program. Email: volunteer@kafsc.org for more info.”",
         "eligible": "All students",
         "dates": "Various",
-        "location": ": Various",
+        "location": "Various",
         "application deadline": "Rolling Basis",
         "links": [
             "https://www.kafsc.org/volunteer"
@@ -1152,7 +1148,7 @@
         "description": "“Be a hero and volunteer! Do what inspires you and make an immediate impact! Available opportunities include working at food pantries, being a youth mentor, tutoring, helping seniors, sports, administration, gardening, fundraising, and so much more. On behalf of the entire Commonpoint Queens community, thank you again for your selflessness and passion for helping others. We cannot wait to serve with you!”",
         "eligible": "All students",
         "dates": "Various",
-        "location": ": Various",
+        "location": "Various",
         "application deadline": "Rolling Basis",
         "links": [
             "https://www.commonpointqueens.org/program/volunteer/",
@@ -1195,13 +1191,12 @@
         "application deadline": "Rolling Basis",
         "links": [
             "https://www.visionsvcb.org/get-involved/volunteering/volunteering-highschool students/",
-            "https://docs.google.com/forms/d/e/1FAIpQLSfcfehk1qzxV82-"
+            "https://docs.google.com/forms/d/e/1FAIpQLSfcfehk1qzxV82-cwZyMl4KaGcDDAVM_ThUhy3NLxbaTHR1Gg/formResponse"
         ]
     },
     {
-        "title": "cwZyMl4KaGcDDAVM_ThUhy3NLxbaTHR1Gg/formResponse",
+        "title": "Leadership/College Prep/Government/Law/Cultural/Programs",
         "category": "COMMUNITY SERVICE",
-        "description": "RETURN TO TOPLeadership/College Prep/Government/Law/Cultural/Programs",
         "links": [
             "https://docs.google.com/document/d/1F4iLUPa_5fIR-7XmKvkK3smgbBppxv2SNoVGVmorWXQ/edit?usp=sharing"
         ]
@@ -1277,7 +1272,7 @@
         "description": "“The Division offers interested students exciting opportunities to participate in the processing of discrimination complaints and observe first-hand how the Division investigates, prosecutes, and conducts hearings to determine if discriminatory conduct in violation of New York State law has occurred. There are also opportunities to work with the Division’s External Relations Unit, that works to educate and engage New Yorkers about the NYS Human Rights Law. Interns/externs are also provided with significant professional development, mentorship, and writing opportunities.”",
         "eligible": "All students",
         "dates": "June 5 – August 4",
-        "location": ": Hybrid with various across New York State",
+        "location": "Hybrid with various across New York State",
         "cost": "Free",
         "application deadline": "Rolling Basis",
         "links": [
@@ -1298,30 +1293,29 @@
         ]
     },
     {
-        "title": "YVote Summer ChangeMaker Programs",
+        "title": "Democracy Camp",
         "category": "COMMUNITY SERVICE",
-        "description": "Democracy Camp“This program is a weeklong in-person intensive engaging diverse teens from across NYC in analyzing the history and current state of our democracy, investigating specific challenges of our times (for example, voting rights or racial injustice), designing Democracy Projects to tackle the challenges you’ve identified, making recommendations about how to work across differences to create inclusive civic solutions, and creating action plans to implement with peers over the 2023-24 school year. Participants will qualify for a stipend of up to $250 for full and engaged participation.”",
+        "description": "“This program is a weeklong in-person intensive engaging diverse teens from across NYC in analyzing the history and current state of our democracy, investigating specific challenges of our times (for example, voting rights or racial injustice), designing Democracy Projects to tackle the challenges you’ve identified, making recommendations about how to work across differences to create inclusive civic solutions, and creating action plans to implement with peers over the 2023-24 school year. Participants will qualify for a stipend of up to $250 for full and engaged participation.”",
         "eligible": "All students",
         "dates": "June 27 – July 1",
         "location": "NY Society for Ethical Culture, 2 W 64th St in Manhattan",
         "cost": "Free",
         "application deadline": "June 9",
         "links": [
-            "https://yvoteny.org/democracy-camp/",
-            "https://docs.google.com/forms/d/e/1FAIpQLSfrQ0OeZECqgWiirc5plnDkGoDCUxF5CyWK0cGLx8ipuHiKbA/viewform?c=0&w=1The YVote ChangeMaker Summer Institute"
+            "https://yvoteny.org/democracy-camp/https://docs.google.com/forms/d/e/1FAIpQLSfrQ0OeZECqgWiirc5plnDkGoDCUxF5CyWK0cGLx8ipuHiKbA/viewform?c=0&w=1"
         ]
     },
     {
-        "title": "“This program will equip you to be on the front lines of a youth social movement focused on creating change--and holding elected officials accountable--around issues you care about: criminal, climate, gender & LGBTQIA+, immigration, mental health, and racial justice. Participants will qualify for a stipend of up to $250 for full and engaged participation.”",
+        "title": "The YVote ChangeMaker Summer Institute",
         "category": "COMMUNITY SERVICE",
+        "description": "“This program will equip you to be on the front lines of a youth social movement focused on creating change--and holding elected officials accountable--around issues you care about: criminal, climate, gender & LGBTQIA+, immigration, mental health, and racial justice. Participants will qualify for a stipend of up to $250 for full and engaged participation.”",
         "eligible": "All students",
         "dates": "July 11 – August 15 (Tuesdays from 5:30 – 8:30 PM) & August 5",
         "location": "TBD, in Manhattan",
         "cost": "Free",
         "application deadline": "June 9",
         "links": [
-            "https://yvoteny.org/summer-changemakers/",
-            "https://docs.google.com/forms/d/e/1FAIpQLSfrQ0OeZECqgWiirc5plnDkGoDCUxF5CyWK0cGLx8ipuHiKbA/viewform?c=0&w=1"
+            "https://yvoteny.org/summer-changemakers/https://docs.google.com/forms/d/e/1FAIpQLSfrQ0OeZECqgWiirc5plnDkGoDCUxF5CyWK0cGLx8ipuHiKbA/viewform?c=0&w=1"
         ]
     },
     {
@@ -1388,8 +1382,7 @@
         "cost": "Free",
         "application deadline": "Rolling Basis",
         "links": [
-            "https://www.theprojectlotus.org/",
-            "https://docs.google.com/forms/d/e/1FAIpQLSfAgUefxPZlbnJlwSw7kuRRPt-MSg1_S3cCdf9RP6WIX1voDw/viewform"
+            "https://www.theprojectlotus.org/https://docs.google.com/forms/d/e/1FAIpQLSfAgUefxPZlbnJlwSw7kuRRPt-MSg1_S3cCdf9RP6WIX1voDw/viewform"
         ]
     },
     {
@@ -1473,7 +1466,8 @@
             "https://apply.climate.columbia.edu/portal/pre-college-appointment",
             "https://www.climate.columbia.edu/frequently-asked-questions",
             "https://www.climate.columbia.edu/columbia-climate-corps",
-            "https://www.climate.columbia.edu/content/climate-impacts-uncovering-injustice-disaster-preparedness-and-recoveryScholarships: https://www.climate.columbia.edu/pre-college-programs/applications-scholarships"
+            "https://www.climate.columbia.edu/content/climate-impacts-uncovering-injustice-disaster-preparedness-and-recovery",
+            "Scholarships: https://www.climate.columbia.edu/pre-college-programs/applications-scholarships"
         ]
     },
     {
@@ -1517,13 +1511,16 @@
         "application deadline": "Rolling Basis",
         "cost": "Free",
         "links": [
-            "https://bridgingseas.com/"
+            "https://bridgingseas.com/",
+            "Pen-Pal Application:  https://docs.google.com/forms/d/e/1FAIpQLSc2OL2xWHYcvGhe9V-A4ivLNbuCvAPjHRPfSkMLpOKKtfynMw/viewform",
+            "Director Application: https://forms.gle/PxjS2A9gq94vdB3MA",
+            "Team Member Application: https://x3vswh56e67.typeform.com/to/OqTPK0Nw"
         ]
     },
     {
-        "title": "Pen-Pal Application:  https://docs.google.com/forms/d/e/1FAIpQLSc2OL2xWHYcvGhe9V-A4ivLNbuCvAPjHRPfSkMLpOKKtfynMw/viewform",
+        "title": "GenSpace Bio Lab Teen Leadership Council",
         "category": "COMMUNITY SERVICE",
-        "description": "Director Application: https://forms.gle/PxjS2A9gq94vdB3MATeam Member Application: https://x3vswh56e67.typeform.com/to/OqTPK0NwGenSpace Bio Lab Teen Leadership Council“The Genspace Teen Leadership Council (TLC) is a group that promotes youth leadership as they take action, support their communities, and explore their interest in STEAM. We have multiple teams that lead projects in education, activism, and social activities. As a part of Genspace - the world’s first community biology lab and a place where people of all backgrounds can learn, create, and grow with the life sciences - TLC has a passion for learning, educating, and making science accessible for everyone. TLC strives to create a collaborative and inclusive space for teens to grow, learn, and give back. Interested in joining? Just send us an email at tlc@genspace.org with your name, contact information, why you’re interested in joining TLC, and anything else you want us to know about you. A few sentences is plenty!”",
+        "description": "“The Genspace Teen Leadership Council (TLC) is a group that promotes youth leadership as they take action, support their communities, and explore their interest in STEAM. We have multiple teams that lead projects in education, activism, and social activities. As a part of Genspace - the world’s first community biology lab and a place where people of all backgrounds can learn, create, and grow with the life sciences - TLC has a passion for learning, educating, and making science accessible for everyone. TLC strives to create a collaborative and inclusive space for teens to grow, learn, and give back. Interested in joining? Just send us an email at tlc@genspace.org with your name, contact information, why you’re interested in joining TLC, and anything else you want us to know about you. A few sentences is plenty!”",
         "eligible": "All students",
         "dates": "Various throughout the school year",
         "location": "132 32 Street, Brooklyn",
@@ -1606,8 +1603,7 @@
         "eligible": "All students",
         "application deadline": "May 14",
         "links": [
-            "https://www.artejustice.org/artcontest",
-            "https://docs.google.com/forms/d/e/1FAIpQLSeqTjlAwQJCxz_pmlaXc-yNCT-zIq9T2MdBzpBwRrBICwhYDA/viewform"
+            "https://www.artejustice.org/artcontesthttps://docs.google.com/forms/d/e/1FAIpQLSeqTjlAwQJCxz_pmlaXc-yNCT-zIq9T2MdBzpBwRrBICwhYDA/viewform"
         ]
     },
     {
@@ -1653,7 +1649,7 @@
         "description": "“Youth Art Connection (YAC) is a free, six session summer program for high school students interested in art and museum careers. YAC participants view and discuss artwork from the Museum’s current exhibitions, create art inspired by the collection, meet museum staff and go behind the scenes of the museum, and participate in field trips to other arts institutions. Students will be provided with a schedule of activities after being accepted into the program. Snacks and Metrocards will be provided.”",
         "eligible": "All students (preference for students who live in Queens and graduating seniors)",
         "dates": "July 11 – 27",
-        "location": ": Various",
+        "location": "Various",
         "cost": "Free",
         "application deadline": "May 26",
         "links": [
@@ -1775,8 +1771,7 @@
         "cost": "$150 (financial aid available)",
         "application deadline": "May 15 (Rolling Basis until May 22)",
         "links": [
-            "https://www.alleypond.org/field-biology-internship.html",
-            "https://docs.google.com/forms/d/e/1FAIpQLScAdEcY4dL2dn14eIwfn7UG-SwVTXpNyvF2Ua66H4QKIxYj7A/viewform"
+            "https://www.alleypond.org/field-biology-internship.htmlhttps://docs.google.com/forms/d/e/1FAIpQLScAdEcY4dL2dn14eIwfn7UG-SwVTXpNyvF2Ua66H4QKIxYj7A/viewform"
         ]
     },
     {
@@ -1785,12 +1780,11 @@
         "description": "“Our Summer Youth Tillers program aims to encourage intergenerational learning spaces through youth providing hands on support to community gardeners during the busiest time of the growing season. You will learn about the history behind community gardening, the people power behind green spaces and the value of such growing food in marginalized communities. This is a NYC based internship. Participants will be compensated at the rate of $15 per hour for 15 hours weekly.”",
         "eligible": "Students between the ages of 14 and 17",
         "dates": "July 10 – August 22",
-        "location": ": Various",
+        "location": "Various",
         "cost": "Free",
         "application deadline": "May 28",
         "links": [
-            "https://www.greenguerillas.org/2022-summer-youth-tiller",
-            "https://docs.google.com/forms/d/e/1FAIpQLSeZgBJL9bt62Nb0dyD1ClkwS6Vvi-IdIwiEWGxZyRcXiPLc5Q/viewform"
+            "https://www.greenguerillas.org/2022-summer-youth-tillerhttps://docs.google.com/forms/d/e/1FAIpQLSeZgBJL9bt62Nb0dyD1ClkwS6Vvi-IdIwiEWGxZyRcXiPLc5Q/viewform"
         ]
     },
     {
@@ -1803,8 +1797,7 @@
         "cost": "Free",
         "application deadline": "June 1",
         "links": [
-            "https://www.fxbclimateadvocates.org/",
-            "https://docs.google.com/forms/d/e/1FAIpQLSfk-B8Mm13thy8i5TQJuA9ClizK7bQtY8WwtQ5wZUf_pIXFMQ/viewform"
+            "https://www.fxbclimateadvocates.org/https://docs.google.com/forms/d/e/1FAIpQLSfk-B8Mm13thy8i5TQJuA9ClizK7bQtY8WwtQ5wZUf_pIXFMQ/viewform"
         ]
     },
     {
@@ -1839,7 +1832,7 @@
         "description": "“The GreenThumb Youth Leadership Council (YLC) is an opportunity for youth ages 14-21 to volunteer at a community garden during the spring and summer. Participants will learn firsthand from community gardeners how to maintain and grow a healthy garden. Youth will also work on a project in the garden that will involve gaining skills such as carpentry, composting, environmental stewardship, community organizing, and event management.”",
         "eligible": "All students who are at least 14 years old",
         "dates": "Spring and summer terms",
-        "location": ": Various",
+        "location": "Various",
         "cost": "Free",
         "application deadline": "Rolling Basis",
         "links": [
@@ -1894,12 +1887,11 @@
         "description": "NYC H2O is a non-profit organization (founded by Stuy alum Matt Malina – Stuy ‘91) that focuses on environmental education and stewardship in the five boroughs. They provide service learning opportunities for students at their weekend volunteer ecological stewardship events in City parks. There are upcoming programs coming at the Ridgewood Reservoir in Queens and at Lemon Creek in Staten Island. Learn more by emailing Matt Malina at: matt@nych2o.org and at their website below.",
         "eligible": "All students",
         "dates": "Various",
-        "location": ": Various",
+        "location": "Various",
         "cost": "Free",
         "application deadline": "Rolling Basis",
         "links": [
-            "http://www.nych2o.org/",
-            "https://docs.google.com/forms/d/e/1FAIpQLSfep_owQxicuIBt6lIxm9_G_vMRiOOgJHcHLB8GTjVwLno5w/viewform?c=0&w=1"
+            "http://www.nych2o.org/https://docs.google.com/forms/d/e/1FAIpQLSfep_owQxicuIBt6lIxm9_G_vMRiOOgJHcHLB8GTjVwLno5w/viewform?c=0&w=1"
         ]
     },
     {
@@ -2017,7 +2009,7 @@
         "eligible": "All students",
         "dates": "Various (Upcoming sessions: 5/17, 5/24, 5/31, …)",
         "application deadline": "ASAP",
-        "location": ": Various",
+        "location": "Various",
         "cost": "$24 (yearly membership fee)",
         "links": [
             "https://nyexploring.org/",
@@ -2134,7 +2126,7 @@
         "description": "“Interns use their creativity and innovation to work on projects impacting NASA’s mission. As a NASA intern, you will be part of an amazing team that is dedicated to space exploration. You will work with leading experts and gain valuable experience as you participate in research and mission projects. Come dream with us and change the future.”",
         "eligible": "All students who are at least 16 and have a 3.0 minimum GPA",
         "dates": "Summer 2023, Fall 2023",
-        "location": ": Virtual and in-person options available",
+        "location": "Virtual and in-person options available",
         "cost": "Free",
         "application deadline": "Rolling Basis",
         "links": [
@@ -2385,9 +2377,9 @@
         ]
     },
     {
-        "title": "Deadlines Approaching:",
+        "title": "Harvard Global Health & Leadership Conference",
         "category": "MEDICAL/LIFE SCIENCES",
-        "description": "Harvard Global Health & Leadership Conference“This annual event provides an opportunity for ambitious high school students to share about their experiences with community engagement and learn from Harvard faculty, guest speakers, and students about global health and leadership, and it is directly hosted by Harvard College. Students will optionally be paired with a Harvard student mentor to conduct a community project, participate in a Case Study Competition, hear from faculty, staff, and students at Harvard, and meet students from across the country.”",
+        "description": "“This annual event provides an opportunity for ambitious high school students to share about their experiences with community engagement and learn from Harvard faculty, guest speakers, and students about global health and leadership, and it is directly hosted by Harvard College. Students will optionally be paired with a Harvard student mentor to conduct a community project, participate in a Case Study Competition, hear from faculty, staff, and students at Harvard, and meet students from across the country.”",
         "eligible": "All students",
         "dates": "May 20 – 21",
         "location": "Virtual",
@@ -2437,8 +2429,7 @@
         "cost": "Free",
         "application deadline": "May 31",
         "links": [
-            "https://teensinhealth.org/new-page",
-            "https://docs.google.com/forms/d/e/1FAIpQLSclG5tSAWXun0bDYN05VjqX3GeM5YXMapk4jUYzeCSEmmJ8tw/viewform"
+            "https://teensinhealth.org/new-pagehttps://docs.google.com/forms/d/e/1FAIpQLSclG5tSAWXun0bDYN05VjqX3GeM5YXMapk4jUYzeCSEmmJ8tw/viewform"
         ]
     },
     {
@@ -2478,8 +2469,7 @@
         "cost": "Free",
         "application deadline": "Rolling Basis",
         "links": [
-            "https://www.maimonidesem.org/health-scholars",
-            "https://docs.google.com/forms/d/e/1FAIpQLScQhxAltjAOyEl6YLiNdcEuxA7De4icI_YCTa7uivtZRNzPaw/viewform"
+            "https://www.maimonidesem.org/health-scholarshttps://docs.google.com/forms/d/e/1FAIpQLScQhxAltjAOyEl6YLiNdcEuxA7De4icI_YCTa7uivtZRNzPaw/viewform"
         ]
     },
     {
@@ -2534,8 +2524,7 @@
         "application deadline": "Rolling Basis",
         "links": [
             "https://www.projectinsightfellows.org/home",
-            "https://docs.google.com/document/d/12HRHfeyOyre0rbplW3wxwbuoHteB5SY9xWQgx3EOiCs/edit",
-            "https://docs.google.com/forms/d/e/1FAIpQLSeD5oQEt57m_0PNwdQ4zbqJGjZjZ72EzLVQ86HCH2HlJPgoJQ/viewform",
+            "https://docs.google.com/document/d/12HRHfeyOyre0rbplW3wxwbuoHteB5SY9xWQgx3EOiCs/edithttps://docs.google.com/forms/d/e/1FAIpQLSeD5oQEt57m_0PNwdQ4zbqJGjZjZ72EzLVQ86HCH2HlJPgoJQ/viewform",
             "https://docs.google.com/document/d/1znb3LIdQiUJBJqi3HoXQ_a6FOAS--iJomEnFfCX7YNE/edit"
         ]
     },
@@ -2571,7 +2560,7 @@
         "description": "“At Genspace, various classes are offered, including Sculpting with Mycelium,Synthetic Biology 101, Sunset Park Wide Open: Biology Lab as Studio, and theBiohacker Bootcamp. No science background is necessary to take these classes.”",
         "eligible": "All students: Youth ages 13-16 may attend classes with parent supervision; parents wishing to participate with their child should purchase an adult ticket for themselves and a student ticket for their child.  Youth ages 16+ may attend classes without parent supervision.",
         "dates": "Various throughout the school year",
-        "location": ": Hybrid: Virtual, and 132 32 Street, Brooklyn + other locations",
+        "location": "Hybrid: Virtual, and 132 32 Street, Brooklyn + other locations",
         "cost": "Various",
         "application deadline": "Rolling Basis",
         "links": [
@@ -2585,7 +2574,7 @@
         "description": "“This camp is for students interested in computer, math, science, and medicine. The camp will focus on the role of genomics in diseases and symptoms and guide students in performing computational biology research using patient RNA expression data to identify genes related to certain diseases. Students will learn basic AI concepts in identifying diseases.”",
         "eligible": "All students",
         "dates": "Various (June - August)",
-        "location": ": In-person and virtual options available",
+        "location": "In-person and virtual options available",
         "cost": "$670 (including an additional $50 registration fee)",
         "application deadline": "Rolling Basis",
         "links": [
@@ -2737,8 +2726,7 @@
         "description": "“NYC Audio Space is excited to announce an open call for submissions for a participatory art project that explores youth experiences in New York City's public spaces! We are seeking audio stories that are 1-5 minutes long and associated with a specific publicly accessible location in NYC. This could be an intersection, park, coffee shop, subway station, church, school, beach, university, grocery store, bus stop, or any other place that holds a special memory for you. Cash prizes of $50 each will be awarded for the most creative, most historical, most chaotic, and most touching entries, as decided by an esteemed jury.”",
         "eligible": "All studentsSubmission Deadline: May 24",
         "links": [
-            "https://www.nycaudiostories.space/",
-            "https://docs.google.com/forms/d/e/1FAIpQLSfnxr6DQt9p9eIL9ZTn7jH55LVNlrrqPnVTTzEjwAHBCI5W8A/viewform"
+            "https://www.nycaudiostories.space/https://docs.google.com/forms/d/e/1FAIpQLSfnxr6DQt9p9eIL9ZTn7jH55LVNlrrqPnVTTzEjwAHBCI5W8A/viewform"
         ]
     },
     {
@@ -2799,8 +2787,7 @@
         "cost": "$2,900",
         "application deadline": "June 1",
         "links": [
-            "http://www.playhousejuniors.com/meisner-teen-conservatory-15-18-yrs.html",
-            "https://docs.google.com/forms/d/e/1FAIpQLScwp6_yv_fNwW3nzyghOPN9OrM7tuHYFwih0HTiwwkZ72HLaw/viewform"
+            "http://www.playhousejuniors.com/meisner-teen-conservatory-15-18-yrs.htmlhttps://docs.google.com/forms/d/e/1FAIpQLScwp6_yv_fNwW3nzyghOPN9OrM7tuHYFwih0HTiwwkZ72HLaw/viewform"
         ]
     },
     {
@@ -2827,8 +2814,7 @@
         "cost": "Free",
         "application deadline": "June 2",
         "links": [
-            "https://creativeartsteam.org/programs/sound-thinking-nyc",
-            "https://docs.google.com/forms/d/e/1FAIpQLScK1omveuxwEBDhobgrOaoBl1jM7cbMf79lCpqMegFDF0Ml3g/viewform"
+            "https://creativeartsteam.org/programs/sound-thinking-nychttps://docs.google.com/forms/d/e/1FAIpQLScK1omveuxwEBDhobgrOaoBl1jM7cbMf79lCpqMegFDF0Ml3g/viewform"
         ]
     },
     {
@@ -2890,7 +2876,7 @@
         "description": "“The Animation Project (TAP) is providing free animation groups to youth in NYC ages 14-24. The group is run by a professional animator and creative Participants will collaborate and work on different aspects of the animation pipeline and at the end of the 12 weeks we will screen the film. Participants can invite friends and family to watch the film and all participants will receive a certificate on completion for completing the film. After each film is finished the cycle starts over and another film is created, participants are also paid $15 for each group that they attend as long as they stay until the end of each group.”",
         "eligible": "All students",
         "dates": "Various",
-        "location": ": Various",
+        "location": "Various",
         "cost": "Free",
         "application deadline": "Rolling Basis – First come, first served – limited spots",
         "links": [
@@ -3025,8 +3011,7 @@
         "cost": "Free",
         "application deadline": "June 5",
         "links": [
-            "https://risingeartheducation.org/teenproductioncouncil-2023",
-            "https://docs.google.com/forms/d/e/1FAIpQLSc9wMiHqSmOeD46WA-mWfVZeAGaGUEVZvr9aEog0vdyd_OYmw/viewform"
+            "https://risingeartheducation.org/teenproductioncouncil-2023https://docs.google.com/forms/d/e/1FAIpQLSc9wMiHqSmOeD46WA-mWfVZeAGaGUEVZvr9aEog0vdyd_OYmw/viewform"
         ]
     },
     {
@@ -3193,8 +3178,7 @@
         "description": "“NYC Audio Space is excited to announce an open call for submissions for a participatory art project that explores youth experiences in New York City's public spaces! We are seeking audio stories that are 1-5 minutes long and associated with a specific publicly accessible location in NYC. This could be an intersection, park, coffee shop, subway station, church, school, beach, university, grocery store, bus stop, or any other place that holds a special memory for you. Cash prizes of $50 each will be awarded for the most creative, most historical, most chaotic, and most touching entries, as decided by an esteemed jury.”",
         "eligible": "All studentsSubmissions Deadline: May 24",
         "links": [
-            "https://www.nycaudiostories.space/",
-            "https://docs.google.com/forms/d/e/1FAIpQLSfnxr6DQt9p9eIL9ZTn7jH55LVNlrrqPnVTTzEjwAHBCI5W8A/viewform"
+            "https://www.nycaudiostories.space/https://docs.google.com/forms/d/e/1FAIpQLSfnxr6DQt9p9eIL9ZTn7jH55LVNlrrqPnVTTzEjwAHBCI5W8A/viewform"
         ]
     },
     {
@@ -3272,7 +3256,7 @@
         "description": "https://docs.google.com/document/d/1fWpZl76rSa-ITGi3kyfyfLL1rle-MzEZ/edit?usp=sharing&ouid=115396606750532126369&rtpof=true&sd=trueList of Career-Focused Resources:https://docs.google.com/document/d/1DuL4pfvLTfwJW-zNGz2PSIN1UCs_8F2J/edit?usp=sharing&ouid=115396606750532126369&rtpof=true&sd=trueCirkled In Remote Summer Internships Search Engine“Cirkled In is a website that provides students with a platform to find internships and job opportunities. The website has a search feature that allows students to filter opportunities based on their preferences, such as location, industry, and job type. Cirkled In also allows students to create a profile and upload their resume, making it easier for employers to find potential candidates. The website provides resources and tips for students on how to improve their resumes and interview skills.”",
         "eligible": "Sophomores, juniors, and seniors",
         "dates": "Various dates",
-        "location": ": Various",
+        "location": "Various",
         "application deadline": "Rolling Basis",
         "cost": "Free",
         "links": [

@@ -1,6 +1,12 @@
 const Scanner = require("./Scanner.js");
 const fs = require("fs");
 
+/* 
+MANUALLY EDITS:
+YVote Summer Programs
+Bridging Seas
+*/
+
 const categories = [
     "EVENTS OF INTEREST TO STUDENTS",
     "ACADEMIC PROGRAMS",
@@ -18,14 +24,19 @@ const categories = [
 ];
 const skippedLines = [
     "RETURN TO TOP",
-    "Next Events Approaching"
+    "Next Events Approaching",
+    "YVote Summer ChangeMaker Programs",
+    "`",
+    "Link to List of Summer College Now Courses:",
+    "Link to List of Fall 2023 College Now Courses:"
 ] 
 const starters = [ // sometimes the starters can be on a different line
     "New:",
     "Deadline Approaching:", 
     "Event Approaching:", 
     "Events Approaching:",
-    "Information Session Approaching:"
+    "Information Session Approaching:",
+    "Deadlines Approaching:"
 ];
 const opportunityFields = [
     "Eligible",
@@ -36,7 +47,8 @@ const opportunityFields = [
     "Date",
     "Links",
     "Link", // Links has to be above Link because if it starts with "Links" it starts with "Link" as well
-    "Examples of Courses Offered"
+    "Examples of Courses Offered",
+    "Scholarships"
 ]
 
 const run = async () => {
@@ -75,6 +87,7 @@ const run = async () => {
                 break;
             }
         }
+        
         if (s) continue;
 
         let isCategory = categories.find(category => category == line.toUpperCase() || category == line.toUpperCase().slice(0, line.length-1));
@@ -95,6 +108,9 @@ const run = async () => {
             
             line = line.trim();
             if (!line.length) line = data.nextLine();
+            if (line.startsWith("College Now Summer Programs & Courses")) {
+                line = data.nextLine();
+            }
             
             parsingOpportunity = true;
             currentOpportunity.title = line;
@@ -124,28 +140,28 @@ const run = async () => {
                     // for some reason this can be on a next line too
                     // FOR SOME REASON, IT CAN BE SPLIT ON MULTIPLE LINES AS WELL
                     if (hasLink(line)) {
-                        let l = data.nextLine();
+                        let l = line;
                         let nex = data.defaultPeekLine();
-                        if (l.length >= 70 && nex.length > 0 && !hasLink(nex)) l += data.nextLine();
+                        if (continueLink(l, nex)) l += data.nextLine();
                         urls.push(l);
                     }
                     while(hasLink(data.peekLine())) {
                         let l = data.nextLine();
                         let nex = data.defaultPeekLine();
-                        if (l.length >= 70 && nex.length > 0 && !hasLink(nex)) l += data.nextLine();
+                        if (continueLink(l, nex)) l += data.nextLine();
                         urls.push(l);
                     }
                 } else {
                     if (hasLink(line)) {
-                        let l = data.nextLine();
+                        let l = line;
                         let nex = data.defaultPeekLine();
-                        if (l.length >= 70 && nex.length > 0 && !hasLink(nex)) l += data.nextLine();
+                        if (continueLink(l, nex)) l += data.nextLine();
                         urls.push(l);
                     }
                     while(hasLink(data.peekLine())) {
                         let l = data.nextLine();
                         let nex = data.defaultPeekLine();
-                        if (l.length >= 70 && nex.length > 0 && !hasLink(nex)) l += data.nextLine();
+                        if (continueLink(l, nex)) l += data.nextLine();
                         urls.push(l);
                     }
                 }
@@ -157,9 +173,11 @@ const run = async () => {
                 currentOpportunity = {};
                 currentField = "";
             } else if (currentField == "Examples of Courses Offered") {
+                if (!currentOpportunity.description) currentOpportunity.description = "";
                 currentOpportunity.description += line;
             } else {
                 if (!currentOpportunity[currentField.toLowerCase()]) currentOpportunity[currentField.toLowerCase()] = "";
+                if (line.startsWith(":")) line = line.slice(1).trim();
                 currentOpportunity[currentField.toLowerCase()] += line;
             }
         }
@@ -179,7 +197,27 @@ const getOpportunityField = (str) => {
 }
 
 const hasLink = (str) => {
-    return str.startsWith("http");
+    return (
+        str.startsWith("http") || 
+        str.startsWith("Scholarships:") ||
+        str.startsWith("Pen-Pal Application:") ||
+        str.startsWith("Director Application:") ||
+        str.startsWith("Team Member Application:")
+    )
+}
+
+const continueLink = (l, nex) => {
+    return (
+        (
+            l.length >= 70 
+            && nex.indexOf("=") != -1 
+            && nex.indexOf("&") != -1 
+            && nex.length > 0 
+            && !hasLink(nex)
+        ) ||
+        nex.indexOf("formResponse") != -1 ||
+        nex.indexOf("viewform") != -1
+    )
 }
 
 run();
