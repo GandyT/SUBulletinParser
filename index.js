@@ -202,7 +202,8 @@ const hasLink = (str) => {
         str.startsWith("Scholarships:") ||
         str.startsWith("Pen-Pal Application:") ||
         str.startsWith("Director Application:") ||
-        str.startsWith("Team Member Application:")
+        str.startsWith("Team Member Application:") ||
+        str.indexOf(".edu") != -1
     )
 }
 
@@ -216,8 +217,7 @@ const continueLink = (l, nex) => {
             && !hasLink(nex)
         ) ||
         nex.indexOf("formResponse") != -1 ||
-        nex.indexOf("viewform") != -1 ||
-        nex.indexOf(".edu") != -1
+        nex.indexOf("viewform") != -1
     )
 }
 
